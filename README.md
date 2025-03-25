@@ -1,8 +1,12 @@
-# React + Vite
+## Overview
+This Task-Track App is built with React.js and leverages the Context API for seamless state management. It includes local storage persistence to ensure that todos are retained across sessions. The app is optimized for performance using functional state updates and efficient re-renders.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- **State Management**: Utilizes React Context API for managing application state.
+- **Local Storage**: Persists todos across sessions using local storage.
+- **Performance Optimization**: Optimized for efficient re-renders using functional state updates.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **Frontend Framework**: React.js
+- **State Management**: Context API
+- **Hooks**: Utilized for functional components
